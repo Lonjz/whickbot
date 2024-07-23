@@ -1,0 +1,27 @@
+{
+  "name": "whickbot",
+  "version": "1.0.0",
+  "description": "whick discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lon",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.4.1",
+    "easyurban": "^1.0.0",
+    "fortnite": "^4.3.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.12",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "process": "^0.11.10",
+    "random-puppy": "^1.1.0",
+    "superagent": "^6.1.0",
+    "urban-dictionary": "^3.0.2"
+  }
+}
